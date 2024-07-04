@@ -21,3 +21,4 @@ while True:
             exit()
     
     pygame.display.update()
+    clock.tick(60)
